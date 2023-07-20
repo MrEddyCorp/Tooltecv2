@@ -36,7 +36,7 @@ export function NavBar(){
                             </div>
                         </div>
                     </div>
-                    <div  id="iconMenu"  >menu</div>
+                    <div  id="iconMenu">menu</div>
                 </div>
             </div>
         </div>    
