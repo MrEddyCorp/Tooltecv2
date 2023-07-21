@@ -1,5 +1,5 @@
 import react from "react";
-import '../styles/globals.css'
+import '../styles/site.css'
 import { NavBar } from "@/components/navbar"
 
  
